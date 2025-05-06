@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, react native, typescript**
 
-- 📫 How to reach me **trimibresa@gmail.com**
+- 📫 Reach me **trimibresa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
